@@ -169,4 +169,4 @@ This project represents a proposed network infrastructure design developed for a
 
 The network configurations, diagrams, calculations, and cost estimates are intended to demonstrate network design concepts rather than document a completed production deployment.
 
-## This project was completed as a group, with everyone contributing to the network design and planning.
+**Note:** This project was completed as a group, with everyone contributing to the network design and planning.
