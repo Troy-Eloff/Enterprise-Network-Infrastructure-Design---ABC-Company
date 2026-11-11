@@ -168,3 +168,5 @@ Overall, this project gave me practical experience with the planning and documen
 This project represents a proposed network infrastructure design developed for an academic assignment.
 
 The network configurations, diagrams, calculations, and cost estimates are intended to demonstrate network design concepts rather than document a completed production deployment.
+
+##This project was completed as a group, with everyone contributing to the network design and planning.
